@@ -264,7 +264,7 @@ li:last-child{
 
     .aurora_text{
         margin-top: 25px;
-        font-size: 15px;
+        font-size: 14px;
         line-height: 30px;
         letter-spacing: 0.22px;
     }
@@ -272,7 +272,7 @@ li:last-child{
     .hermitage_text{
         font-size: 12px;
         line-height: 27px;
-        letter-spacing: 3px;
+        letter-spacing: 2.5px;
         text-shadow: 1px 1px 0px peter_fortress, -1px -1px 0px peter_fortress;
     }
 
@@ -284,8 +284,8 @@ li:last-child{
     }
 
     .peter_fortress_text{
-        font-size: 8px;
-        line-height: 35px;
+        font-size: 10px;
+        line-height: 27px;
         letter-spacing: 1px;
         text-shadow: 2px 2px 0px rgb(0, 0, 0), 3px 3px 0px rgb(0, 0, 0);
     }
@@ -306,7 +306,7 @@ li:last-child{
     }
 
     a{
-        font-size: 9px;
+        font-size: 8px;
  
     }
 
