@@ -265,8 +265,8 @@ li:last-child{
     .aurora_text{
         margin-top: 25px;
         font-size: 14px;
-        line-height: 27px;
-        letter-spacing: 0.5px;
+        line-height: 25px;
+        letter-spacing: 1px;
     }
 
     .hermitage_text{
@@ -306,7 +306,7 @@ li:last-child{
     }
 
     a{
-        font-size: 8px;
+        font-size: 7.75px;
  
     }
 
